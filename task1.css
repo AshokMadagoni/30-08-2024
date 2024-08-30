@@ -40,7 +40,8 @@ hr{
 } */
 .div1,.div2,.div3,.div4{
     position: relative;
-    bottom: 0x;
+    z-index: 1;
+    /* bottom: 0x; */
     margin-left: 20px;
     width: 200px;
     text-align: center;
